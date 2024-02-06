@@ -1,14 +1,9 @@
-# PS1: LFSR / PhotoMagic
+# Image Encryption
 
 ## Contact
 Name: Gia Panchal
 
-Section: 202
-
-Time to Complete: 4 hours
-
-
-## Description
+### Description
 This project simulates a Linear Feedback Shift Register(LFSR) that takes a sequence of bits and shifts the bit position to the left by one and replaces the last empty bit by the result of XOR from bits previously at the tap positions in the register.
 Uses the LFSR to encrypt images with the use of the SFML API. This can be done by extracting each of the RBG components from each pixel of the input image and replacing that with a new random color.
 
