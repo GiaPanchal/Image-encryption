@@ -1,7 +1,6 @@
 # Image Encryption
 
-## Created by:
-## Gia Panchal
+## Created by: Gia Panchal
 
 ### Description
 This project simulates a Linear Feedback Shift Register(LFSR) that takes a sequence of bits and shifts the bit position to the left by one and replaces the last empty bit by the result of XOR from bits previously at the tap positions in the register.
